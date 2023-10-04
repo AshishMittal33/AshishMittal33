@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmittal33&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmittal33" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishmittal33" alt="ashishmittal33" /></a> </p>
-
 - 🌱 I’m currently learning **Adobe-Aero,C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AshishMittal33](https://github.com/AshishMittal33)
@@ -29,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishmittal33&show_icons=true&locale=en" alt="ashishmittal33" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishmittal33&" alt="ashishmittal33" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishmittal33" alt="ashishmittal33" /></a> </p>
