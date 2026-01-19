@@ -1,31 +1,101 @@
-![MasterHead](https://2.bp.blogspot.com/-HPvsFc4GN5c/Xl6vbG1u5jI/AAAAAAAAOuo/LBRvLnDFqa4tESl64weBBCF568CTVJTAACLcBGAsYHQ/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif)
-<h1 align="center">Hi 👋, I'm Ashish Mittal</h1>
-<h3 align="center">A passionate Game developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmittal33&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmittal33" /> </p>
-
-- 🌱 I’m currently learning **Adobe-Aero,C#**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AshishMittal33](https://github.com/AshishMittal33)
-
-- 💬 Ask me about **react,Unity,C#**
-
-- 📫 How to reach me **ashishmittal192@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://dev.to/g.dev/ashishmittal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="g.dev/ashishmittal" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/ashish-mittal2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ashish-mittal2/" height="30" width="40" /></a>
-<a href="https://instagram.com/ashishmittal33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashishmittal33" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ashishmittal192" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ashishmittal192" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Ashish%20Mittal&fontSize=46&fontAlignY=35&desc=Generative%20AI%20Developer%20|%20Agentic%20RAG%20Engineer&descAlignY=55&color=gradient"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=800&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+Production-Grade+AI+Systems;Agentic+RAG+%7C+LLMs+%7C+Cloud+Deployment;Former+Game+Developer+to+AI+Engineer"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashishmittal33&show_icons=true&locale=en" alt="ashishmittal33" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ashishmittal33&label=Profile%20Views&color=0ea5e9&style=flat-square"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishmittal33&" alt="ashishmittal33" /></p>
+## 👋 About Me
+<img align="right" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishmittal33" alt="ashishmittal33" /></a> </p>
+I’m **Ashish Mittal**, a **Generative AI Developer** focused on building **real-world, production-grade AI systems**.
+
+- 🤖 Working on **LLM-based applications & Agentic AI**
+- 🧠 Specialized in **RAG pipelines & hallucination-aware systems**
+- ☁️ Experience deploying AI apps using **Docker & AWS EC2**
+- 🎮 Strong background in **Game Development** (system + product mindset)
+- 🚀 Goal: build **scalable, explainable, reliable AI products**
+
+> I don’t build demos — I build AI systems.
+
+## 🧠 Core Skills
+
+Agentic AI (CrewAI), 
+ RAG Pipelines (LlamaIndex, LangChain),
+ Vector Databases (ChromaDB),
+ LLMs (Groq, Ollama),
+ FastAPI Backends,
+ Streamlit AI Interfaces,
+ Docker & AWS EC2 Deployment
+
+ 
+## 🚀 Featured AI Projects
+
+### 🔹 AstraRAG — Agentic RAG System
+Production-grade Agentic RAG chatbot with transparent tool usage to reduce hallucinations  
+**Tech:** CrewAI · FastAPI · LlamaIndex · ChromaDB · Groq · Docker · AWS EC2  
+
+### 🔹 StudyPal — RAG AI Study Assistant
+AI-powered study assistant providing simple explanations and video references  
+**Tech:** LangChain · ChromaDB · Groq · Streamlit · AWS EC2
+
+### 🔹 Convo Pro — ChatGPT Clone
+Chat application with persistent memory and local LLM support  
+**Tech:** Ollama · MongoDB · Docker · Streamlit · AWS EC2
+
+### 🔹 AI Stock Advisor — CrewAI
+Agent-based AI system for real-time stock insights  
+**Tech:** CrewAI · Groq · Yahoo Finance · Streamlit
+
+## 🧱 Previous Experience
+
+- Unity Game Developer  
+- Released **“The Museum”** on Steam  
+- Built multiple **3D, AR & multiplayer systems**  
+- Strong **end-to-end product development** foundation
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,docker,aws,react,linux,mongodb,git&theme=dark"/>
+</p>
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/ashish-mittal2/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ashishmittal192@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/ashishmittal33" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashishmittal33&show_icons=true&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishmittal33&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishmittal33&theme=tokyo-night"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
+
+⭐ Focused on building intelligent, reliable AI systems — not just prototypes.
+
+
